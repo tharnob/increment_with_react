@@ -1,0 +1,27 @@
+#root{
+    background-color: whitesmoke;
+    margin: 30px solid ;
+
+}
+
+.container{
+    text-align: center;
+    
+}
+
+
+.elements{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#button{
+
+    height: 35px;
+    width: auto;
+    background-color: green;
+    color: snow;
+    
+
+
+}
